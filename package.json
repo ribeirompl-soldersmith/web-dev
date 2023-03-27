@@ -1,0 +1,26 @@
+{
+  "name": "web-dev",
+  "displayName": "Web Dev",
+  "publisher": "ribeirompl-soldersmith",
+  "repository": "https://github.com/ribeirompl-soldersmith/web-dev",
+  "description": "Full Collection of web extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "fabianlauer.vs-code-xml-format",
+    "formulahendry.auto-close-tag",
+    "monosans.djlint",
+    "ritwickdey.LiveServer",
+    "samuelcolvin.jinjahtml",
+    "streetsidesoftware.code-spell-checker",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits",
+    "waderyan.gitblame"
+  ]
+}
