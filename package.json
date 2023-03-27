@@ -1,6 +1,6 @@
 {
-  "name": "web-dev",
-  "displayName": "Web Dev",
+  "name": "web-dev-extensionpack",
+  "displayName": "Web Dev ExtensionPack",
   "publisher": "ribeirompl-soldersmith",
   "repository": "https://github.com/ribeirompl-soldersmith/web-dev",
   "description": "Full Collection of web extensions",
